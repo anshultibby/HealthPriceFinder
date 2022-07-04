@@ -1,5 +1,5 @@
 # HealthPriceFinder
-Curates links to prices and files which have been available under Transperancy in Coverage order
+Curates links to prices and files which have been available under Transperancy in Coverage order. My attempt will be to parse this data and make it available in better formats as well as do some plotting to understand trends in pricing
 
 
 Lots of these links were taken from Redcross here: https://www.redcross.org/faq/transparency-in-coverage.html
